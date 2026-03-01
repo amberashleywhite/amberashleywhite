@@ -70,7 +70,7 @@ className="absolute inset-0 w-full h-full object-cover opacity-60"
     <div className="max-w-4xl mx-auto px-6 text-center">
       <h2 className="text-3xl font-semibold mb-4">Book the Model</h2>
       <p className="text-neutral-300 mb-8">
-        Available for runway shows, brand campaigns, editorials, and fashion
+        Available for brand campaigns, editorials, and fashion
         collaborations worldwide.
       </p>
       <Button className="rounded-2xl px-8 py-3 text-base">
